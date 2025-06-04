@@ -12,7 +12,7 @@ Built with **Python 3.12**, **FastAPI**, and **Uvicorn**.
 - Retrieve reward points based on receipt ID
 - Validates all input fields with Pydantic
 - In-memory storage (no persistence)
-- Follows spec from [`api.yml`](https://github.com/jason-s-harrow/receipt-processor-api/blob/main/api.yaml)
+- Follows spec from [`api.yml`](https://github.com/SabrinaKung/receipt-processor/blob/main/api.yaml)
 
 ---
 
